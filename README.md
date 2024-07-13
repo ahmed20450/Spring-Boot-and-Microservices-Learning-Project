@@ -1,6 +1,6 @@
 # Microservices Project
 
-This project is a microservices-based application built with Java 17 and Spring Boot. It consists of multiple services including school, student, gateway, and discovery services.
+This project is a microservices-based application built with Java 17 and Spring Boot. It consists of multiple services including school, student, gateway,config and discovery services.
 
 ## Technologies Used
 
