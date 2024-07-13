@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b7f0673-2b1d-4db1-9a55-6ab7b15e3c55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/db-1692013074466.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/.eslintrc.base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/cypress.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/src/e2e/app.cy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/src/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/src/support/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/src/support/commands.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/src/support/e2e.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app-e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/jest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/module-federation.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/app.component copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/navbar/navbar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/navbar/navbar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/nx-welcome.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-create/product-create.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-create/product-create.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-create/product-create.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-create/product-create.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-list/product-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-list/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-list/product-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/product-list/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/service/products.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/app/service/products.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/bootstrap.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/src/test-setup.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/tsconfig.editor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/crud-app/webpack.prod.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/cypress.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/src/e2e/app.cy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/src/fixtures/example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/src/support/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/src/support/commands.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/src/support/e2e.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/jest.config.app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/jest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/jest.preset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/nx.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/project.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/app/nx-welcome.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/src/test-setup.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/tsconfig.base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/tsconfig.editor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/org/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/produits.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion-produit-main/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/.github/workflows/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/src/main/java/com/Projet/Produits/entities/Produit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/src/main/java/com/Projet/Produits/entities/Produit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/src/test/java/com/Projet/Produits/ProduitsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/src/test/java/com/Projet/Produits/ProduitsApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/ProduitsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/ProduitsApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/controllers/ProduitController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/controllers/ProduitController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/entities/Produit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/entities/Produit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/repositories/ProduitRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/repositories/ProduitRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/classes/com/Projet/Produits/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gestion_de_produits/back/target/test-classes/com/Projet/Produits/ProduitsApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../gestion_de_produits/back/target/test-classes/com/Projet/Produits/ProduitsApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/services/products.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/services/products.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/navbar/navbar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/navbar/navbar.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-create/product-create.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-create/product-create.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-create/product-create.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-create/product-create.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-list/product-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-list/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-list/product-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/views/product-list/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/environnements/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/environnements/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2j7O3TGDeqaAEiMcdBgRpLrBo79" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ConfigApplication.executor": "Run",
+    "Spring Boot.DiscoveryApplication.executor": "Run",
+    "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.SchoolApplication.executor": "Run",
+    "Spring Boot.StudentApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Bengaied Ahmed/Desktop/micro-services",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bengaied Ahmed\Desktop\micro-services" />
+      <recent name="C:\Users\Bengaied Ahmed\Desktop\micro-services\config\src\main\resources" />
+      <recent name="C:\Users\Bengaied Ahmed\Desktop\micro-services\school\src\main\java\com\bengaied\school\client" />
+      <recent name="C:\Users\Bengaied Ahmed\Desktop\micro-services\student\src\main\java\com\bengaied\student" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bengaied Ahmed\Desktop\micro-services\config\src\main\resources" />
+      <recent name="C:\Users\Bengaied Ahmed\Desktop\micro-services\config\src\main\resources\configurations" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+    <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bengaied.config.ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bengaied.discovery.DiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bengaied.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="school" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bengaied.school.SchoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="student" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bengaied.student.StudentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b7f0673-2b1d-4db1-9a55-6ab7b15e3c55" name="Changes" comment="" />
+      <created>1720734454550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720734454550</updated>
+      <workItem from="1720734456068" duration="39000" />
+      <workItem from="1720774466930" duration="629000" />
+      <workItem from="1720776186983" duration="1857000" />
+      <workItem from="1720778432027" duration="16681000" />
+      <workItem from="1720816730706" duration="283000" />
+      <workItem from="1720861961332" duration="15935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
