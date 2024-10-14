@@ -19,13 +19,13 @@ This project is a microservices-based application built with Java 17 and Spring 
 2. Clone the repository:
 git clone https://github.com/ahmed20450/Spring-Boot-and-Microservices-Learning-Project.git  
 cd micro-services
-Copy
+
 4. Build the project:
 mvn clean package
-Copy
+
 5. Start the services using Docker Compose:
 docker-compose up -d
-Copy
+
 6. The services should now be running. You can access them at:
 - Discovery Service: http://localhost:8761
 - Gateway Service: http://localhost:8080
